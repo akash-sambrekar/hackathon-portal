@@ -1,0 +1,855 @@
+{
+  "PlanningHorizon": {
+    "PlanningHorizonStart": "2026-11-09T00:00:00",
+    "PlanningHorizonEnd": "2026-11-22T23:59:59"
+  },
+  "Turnarounds": [
+    {
+      "UniqueTurnID": 1,
+      "TurnID": "T00001",
+      "DemandDate": "2026-11-09",
+      "DemandDay": "MON",
+      "ACType": "NARROW",
+      "Tasks": [
+        3,
+        9,
+        2
+      ]
+    },
+    {
+      "UniqueTurnID": 2,
+      "TurnID": "T00002",
+      "DemandDate": "2026-11-09",
+      "DemandDay": "MON",
+      "ACType": "NARROW",
+      "Tasks": [
+        9,
+        3,
+        2
+      ]
+    },
+    {
+      "UniqueTurnID": 3,
+      "TurnID": "T00003",
+      "DemandDate": "2026-11-09",
+      "DemandDay": "MON",
+      "ACType": "NARROW",
+      "Tasks": [
+        4,
+        6,
+        2
+      ]
+    },
+    {
+      "UniqueTurnID": 4,
+      "TurnID": "T00004",
+      "DemandDate": "2026-11-09",
+      "DemandDay": "MON",
+      "ACType": "NARROW",
+      "Tasks": [
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "UniqueTurnID": 5,
+      "TurnID": "T00005",
+      "DemandDate": "2026-11-09",
+      "DemandDay": "MON",
+      "ACType": "NARROW",
+      "Tasks": [
+        9,
+        7,
+        6
+      ]
+    },
+    {
+      "UniqueTurnID": 6,
+      "TurnID": "T00006",
+      "DemandDate": "2026-11-09",
+      "DemandDay": "MON",
+      "ACType": "NARROW",
+      "Tasks": [
+        8,
+        6,
+        5
+      ]
+    },
+    {
+      "UniqueTurnID": 7,
+      "TurnID": "T00007",
+      "DemandDate": "2026-11-10",
+      "DemandDay": "TUE",
+      "ACType": "NARROW",
+      "Tasks": [
+        4,
+        2,
+        5
+      ]
+    },
+    {
+      "UniqueTurnID": 8,
+      "TurnID": "T00008",
+      "DemandDate": "2026-11-10",
+      "DemandDay": "TUE",
+      "ACType": "NARROW",
+      "Tasks": [
+        6,
+        8,
+        5
+      ]
+    },
+    {
+      "UniqueTurnID": 9,
+      "TurnID": "T00009",
+      "DemandDate": "2026-11-10",
+      "DemandDay": "TUE",
+      "ACType": "NARROW",
+      "Tasks": [
+        2,
+        10,
+        7
+      ]
+    },
+    {
+      "UniqueTurnID": 10,
+      "TurnID": "T00010",
+      "DemandDate": "2026-11-10",
+      "DemandDay": "TUE",
+      "ACType": "NARROW",
+      "Tasks": [
+        6,
+        3,
+        8
+      ]
+    },
+    {
+      "UniqueTurnID": 11,
+      "TurnID": "T00011",
+      "DemandDate": "2026-11-11",
+      "DemandDay": "WED",
+      "ACType": "NARROW",
+      "Tasks": [
+        9,
+        6,
+        10
+      ]
+    },
+    {
+      "UniqueTurnID": 12,
+      "TurnID": "T00012",
+      "DemandDate": "2026-11-11",
+      "DemandDay": "WED",
+      "ACType": "NARROW",
+      "Tasks": [
+        10,
+        8,
+        9,
+        11
+      ]
+    },
+    {
+      "UniqueTurnID": 13,
+      "TurnID": "T00013",
+      "DemandDate": "2026-11-11",
+      "DemandDay": "WED",
+      "ACType": "NARROW",
+      "Tasks": [
+        2,
+        5,
+        8
+      ]
+    },
+    {
+      "UniqueTurnID": 14,
+      "TurnID": "T00014",
+      "DemandDate": "2026-11-12",
+      "DemandDay": "THU",
+      "ACType": "NARROW",
+      "Tasks": [
+        1,
+        5,
+        8
+      ]
+    },
+    {
+      "UniqueTurnID": 15,
+      "TurnID": "T00015",
+      "DemandDate": "2026-11-12",
+      "DemandDay": "THU",
+      "ACType": "NARROW",
+      "Tasks": [
+        7,
+        6,
+        1
+      ]
+    },
+    {
+      "UniqueTurnID": 16,
+      "TurnID": "T00016",
+      "DemandDate": "2026-11-12",
+      "DemandDay": "THU",
+      "ACType": "NARROW",
+      "Tasks": [
+        6,
+        3,
+        2
+      ]
+    },
+    {
+      "UniqueTurnID": 17,
+      "TurnID": "T00017",
+      "DemandDate": "2026-11-13",
+      "DemandDay": "FRI",
+      "ACType": "NARROW",
+      "Tasks": [
+        5,
+        3,
+        4
+      ]
+    },
+    {
+      "UniqueTurnID": 18,
+      "TurnID": "T00018",
+      "DemandDate": "2026-11-13",
+      "DemandDay": "FRI",
+      "ACType": "NARROW",
+      "Tasks": [
+        8,
+        2,
+        3
+      ]
+    },
+    {
+      "UniqueTurnID": 19,
+      "TurnID": "T00019",
+      "DemandDate": "2026-11-13",
+      "DemandDay": "FRI",
+      "ACType": "NARROW",
+      "Tasks": [
+        9,
+        5,
+        3
+      ]
+    },
+    {
+      "UniqueTurnID": 20,
+      "TurnID": "T00020",
+      "DemandDate": "2026-11-13",
+      "DemandDay": "FRI",
+      "ACType": "NARROW",
+      "Tasks": [
+        9,
+        5,
+        7
+      ]
+    },
+    {
+      "UniqueTurnID": 21,
+      "TurnID": "T00021",
+      "DemandDate": "2026-11-14",
+      "DemandDay": "SAT",
+      "ACType": "NARROW",
+      "Tasks": [
+        4,
+        3,
+        2
+      ]
+    },
+    {
+      "UniqueTurnID": 22,
+      "TurnID": "T00022",
+      "DemandDate": "2026-11-14",
+      "DemandDay": "SAT",
+      "ACType": "NARROW",
+      "Tasks": [
+        4,
+        10,
+        1
+      ]
+    },
+    {
+      "UniqueTurnID": 23,
+      "TurnID": "T00023",
+      "DemandDate": "2026-11-14",
+      "DemandDay": "SAT",
+      "ACType": "NARROW",
+      "Tasks": [
+        10,
+        3,
+        5
+      ]
+    },
+    {
+      "UniqueTurnID": 24,
+      "TurnID": "T00024",
+      "DemandDate": "2026-11-14",
+      "DemandDay": "SAT",
+      "ACType": "NARROW",
+      "Tasks": [
+        3,
+        7,
+        6
+      ]
+    },
+    {
+      "UniqueTurnID": 25,
+      "TurnID": "T00025",
+      "DemandDate": "2026-11-14",
+      "DemandDay": "SAT",
+      "ACType": "NARROW",
+      "Tasks": [
+        6,
+        3,
+        1
+      ]
+    },
+    {
+      "UniqueTurnID": 26,
+      "TurnID": "T00026",
+      "DemandDate": "2026-11-14",
+      "DemandDay": "SAT",
+      "ACType": "NARROW",
+      "Tasks": [
+        9,
+        7,
+        10
+      ]
+    },
+    {
+      "UniqueTurnID": 27,
+      "TurnID": "T00027",
+      "DemandDate": "2026-11-15",
+      "DemandDay": "SUN",
+      "ACType": "NARROW",
+      "Tasks": [
+        8,
+        7,
+        1
+      ]
+    },
+    {
+      "UniqueTurnID": 28,
+      "TurnID": "T00028",
+      "DemandDate": "2026-11-15",
+      "DemandDay": "SUN",
+      "ACType": "NARROW",
+      "Tasks": [
+        4,
+        8,
+        3
+      ]
+    },
+    {
+      "UniqueTurnID": 29,
+      "TurnID": "T00029",
+      "DemandDate": "2026-11-15",
+      "DemandDay": "SUN",
+      "ACType": "NARROW",
+      "Tasks": [
+        10,
+        1,
+        2,
+        11
+      ]
+    },
+    {
+      "UniqueTurnID": 30,
+      "TurnID": "T00030",
+      "DemandDate": "2026-11-16",
+      "DemandDay": "MON",
+      "ACType": "NARROW",
+      "Tasks": [
+        9,
+        2,
+        6
+      ]
+    },
+    {
+      "UniqueTurnID": 31,
+      "TurnID": "T00031",
+      "DemandDate": "2026-11-16",
+      "DemandDay": "MON",
+      "ACType": "NARROW",
+      "Tasks": [
+        2,
+        4,
+        7
+      ]
+    },
+    {
+      "UniqueTurnID": 32,
+      "TurnID": "T00032",
+      "DemandDate": "2026-11-16",
+      "DemandDay": "MON",
+      "ACType": "NARROW",
+      "Tasks": [
+        5,
+        6,
+        9
+      ]
+    },
+    {
+      "UniqueTurnID": 33,
+      "TurnID": "T00033",
+      "DemandDate": "2026-11-16",
+      "DemandDay": "MON",
+      "ACType": "NARROW",
+      "Tasks": [
+        2,
+        8,
+        9
+      ]
+    },
+    {
+      "UniqueTurnID": 34,
+      "TurnID": "T00034",
+      "DemandDate": "2026-11-17",
+      "DemandDay": "TUE",
+      "ACType": "NARROW",
+      "Tasks": [
+        2,
+        3,
+        10
+      ]
+    },
+    {
+      "UniqueTurnID": 35,
+      "TurnID": "T00035",
+      "DemandDate": "2026-11-17",
+      "DemandDay": "TUE",
+      "ACType": "NARROW",
+      "Tasks": [
+        5,
+        8,
+        3
+      ]
+    },
+    {
+      "UniqueTurnID": 36,
+      "TurnID": "T00036",
+      "DemandDate": "2026-11-17",
+      "DemandDay": "TUE",
+      "ACType": "NARROW",
+      "Tasks": [
+        4,
+        9,
+        6
+      ]
+    },
+    {
+      "UniqueTurnID": 37,
+      "TurnID": "T00037",
+      "DemandDate": "2026-11-17",
+      "DemandDay": "TUE",
+      "ACType": "NARROW",
+      "Tasks": [
+        9,
+        1,
+        5
+      ]
+    },
+    {
+      "UniqueTurnID": 38,
+      "TurnID": "T00038",
+      "DemandDate": "2026-11-17",
+      "DemandDay": "TUE",
+      "ACType": "NARROW",
+      "Tasks": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "UniqueTurnID": 39,
+      "TurnID": "T00039",
+      "DemandDate": "2026-11-18",
+      "DemandDay": "WED",
+      "ACType": "NARROW",
+      "Tasks": [
+        4,
+        9,
+        6
+      ]
+    },
+    {
+      "UniqueTurnID": 40,
+      "TurnID": "T00040",
+      "DemandDate": "2026-11-18",
+      "DemandDay": "WED",
+      "ACType": "NARROW",
+      "Tasks": [
+        10,
+        4,
+        9
+      ]
+    },
+    {
+      "UniqueTurnID": 41,
+      "TurnID": "T00041",
+      "DemandDate": "2026-11-18",
+      "DemandDay": "WED",
+      "ACType": "NARROW",
+      "Tasks": [
+        4,
+        10,
+        8
+      ]
+    },
+    {
+      "UniqueTurnID": 42,
+      "TurnID": "T00042",
+      "DemandDate": "2026-11-18",
+      "DemandDay": "WED",
+      "ACType": "NARROW",
+      "Tasks": [
+        1,
+        10,
+        5
+      ]
+    },
+    {
+      "UniqueTurnID": 43,
+      "TurnID": "T00043",
+      "DemandDate": "2026-11-18",
+      "DemandDay": "WED",
+      "ACType": "NARROW",
+      "Tasks": [
+        4,
+        6,
+        8
+      ]
+    },
+    {
+      "UniqueTurnID": 44,
+      "TurnID": "T00044",
+      "DemandDate": "2026-11-19",
+      "DemandDay": "THU",
+      "ACType": "NARROW",
+      "Tasks": [
+        6,
+        2,
+        4
+      ]
+    },
+    {
+      "UniqueTurnID": 45,
+      "TurnID": "T00045",
+      "DemandDate": "2026-11-19",
+      "DemandDay": "THU",
+      "ACType": "NARROW",
+      "Tasks": [
+        8,
+        4,
+        6
+      ]
+    },
+    {
+      "UniqueTurnID": 46,
+      "TurnID": "T00046",
+      "DemandDate": "2026-11-19",
+      "DemandDay": "THU",
+      "ACType": "NARROW",
+      "Tasks": [
+        10,
+        1,
+        8
+      ]
+    },
+    {
+      "UniqueTurnID": 47,
+      "TurnID": "T00047",
+      "DemandDate": "2026-11-19",
+      "DemandDay": "THU",
+      "ACType": "NARROW",
+      "Tasks": [
+        6,
+        2,
+        9
+      ]
+    },
+    {
+      "UniqueTurnID": 48,
+      "TurnID": "T00048",
+      "DemandDate": "2026-11-19",
+      "DemandDay": "THU",
+      "ACType": "NARROW",
+      "Tasks": [
+        4,
+        8,
+        3
+      ]
+    },
+    {
+      "UniqueTurnID": 49,
+      "TurnID": "T00049",
+      "DemandDate": "2026-11-20",
+      "DemandDay": "FRI",
+      "ACType": "NARROW",
+      "Tasks": [
+        2,
+        7,
+        8
+      ]
+    },
+    {
+      "UniqueTurnID": 50,
+      "TurnID": "T00050",
+      "DemandDate": "2026-11-20",
+      "DemandDay": "FRI",
+      "ACType": "NARROW",
+      "Tasks": [
+        2,
+        3,
+        9
+      ]
+    },
+    {
+      "UniqueTurnID": 51,
+      "TurnID": "T00051",
+      "DemandDate": "2026-11-20",
+      "DemandDay": "FRI",
+      "ACType": "NARROW",
+      "Tasks": [
+        1,
+        3,
+        8
+      ]
+    },
+    {
+      "UniqueTurnID": 52,
+      "TurnID": "T00052",
+      "DemandDate": "2026-11-20",
+      "DemandDay": "FRI",
+      "ACType": "NARROW",
+      "Tasks": [
+        3,
+        8,
+        6
+      ]
+    },
+    {
+      "UniqueTurnID": 53,
+      "TurnID": "T00053",
+      "DemandDate": "2026-11-20",
+      "DemandDay": "FRI",
+      "ACType": "NARROW",
+      "Tasks": [
+        9,
+        3,
+        1,
+        11
+      ]
+    },
+    {
+      "UniqueTurnID": 54,
+      "TurnID": "T00054",
+      "DemandDate": "2026-11-21",
+      "DemandDay": "SAT",
+      "ACType": "NARROW",
+      "Tasks": [
+        9,
+        3,
+        7
+      ]
+    },
+    {
+      "UniqueTurnID": 55,
+      "TurnID": "T00055",
+      "DemandDate": "2026-11-21",
+      "DemandDay": "SAT",
+      "ACType": "NARROW",
+      "Tasks": [
+        4,
+        10,
+        1
+      ]
+    },
+    {
+      "UniqueTurnID": 56,
+      "TurnID": "T00056",
+      "DemandDate": "2026-11-21",
+      "DemandDay": "SAT",
+      "ACType": "NARROW",
+      "Tasks": [
+        5,
+        9,
+        4
+      ]
+    },
+    {
+      "UniqueTurnID": 57,
+      "TurnID": "T00057",
+      "DemandDate": "2026-11-22",
+      "DemandDay": "SUN",
+      "ACType": "NARROW",
+      "Tasks": [
+        5,
+        9,
+        7
+      ]
+    },
+    {
+      "UniqueTurnID": 58,
+      "TurnID": "T00058",
+      "DemandDate": "2026-11-22",
+      "DemandDay": "SUN",
+      "ACType": "NARROW",
+      "Tasks": [
+        1,
+        6,
+        8
+      ]
+    },
+    {
+      "UniqueTurnID": 59,
+      "TurnID": "T00059",
+      "DemandDate": "2026-11-22",
+      "DemandDay": "SUN",
+      "ACType": "NARROW",
+      "Tasks": [
+        9,
+        7,
+        3
+      ]
+    },
+    {
+      "UniqueTurnID": 60,
+      "TurnID": "T00060",
+      "DemandDate": "2026-11-22",
+      "DemandDay": "SUN",
+      "ACType": "NARROW",
+      "Tasks": [
+        9,
+        10,
+        1
+      ]
+    },
+    {
+      "UniqueTurnID": 61,
+      "TurnID": "T00061",
+      "DemandDate": "2026-11-22",
+      "DemandDay": "SUN",
+      "ACType": "NARROW",
+      "Tasks": [
+        3,
+        1,
+        10
+      ]
+    }
+  ],
+  "Tasks": [
+    {
+      "Id": 1,
+      "Resource": "LDR",
+      "Service": "RMP",
+      "DemandDateDelta": 0,
+      "Start": "13:20",
+      "End": "14:05",
+      "DurationMinutes": 45,
+      "NumResources": 8
+    },
+    {
+      "Id": 2,
+      "Resource": "LDR",
+      "Service": "RMP",
+      "DemandDateDelta": 0,
+      "Start": "07:30",
+      "End": "08:00",
+      "DurationMinutes": 30,
+      "NumResources": 1
+    },
+    {
+      "Id": 3,
+      "Resource": "LDR",
+      "Service": "RMP",
+      "DemandDateDelta": 0,
+      "Start": "14:15",
+      "End": "14:45",
+      "DurationMinutes": 30,
+      "NumResources": 2
+    },
+    {
+      "Id": 4,
+      "Resource": "LDR",
+      "Service": "RMP",
+      "DemandDateDelta": 0,
+      "Start": "07:15",
+      "End": "07:45",
+      "DurationMinutes": 30,
+      "NumResources": 8
+    },
+    {
+      "Id": 5,
+      "Resource": "LDR",
+      "Service": "RMP",
+      "DemandDateDelta": 0,
+      "Start": "15:25",
+      "End": "15:55",
+      "DurationMinutes": 30,
+      "NumResources": 2
+    },
+    {
+      "Id": 6,
+      "Resource": "LDR",
+      "Service": "RMP",
+      "DemandDateDelta": 0,
+      "Start": "08:25",
+      "End": "09:55",
+      "DurationMinutes": 90,
+      "NumResources": 1
+    },
+    {
+      "Id": 7,
+      "Resource": "CLN",
+      "Service": "CLN",
+      "DemandDateDelta": 0,
+      "Start": "18:30",
+      "End": "19:00",
+      "DurationMinutes": 30,
+      "NumResources": 1
+    },
+    {
+      "Id": 8,
+      "Resource": "CLN",
+      "Service": "CLN",
+      "DemandDateDelta": 0,
+      "Start": "19:55",
+      "End": "20:25",
+      "DurationMinutes": 30,
+      "NumResources": 2
+    },
+    {
+      "Id": 9,
+      "Resource": "CLN",
+      "Service": "CLN",
+      "DemandDateDelta": 0,
+      "Start": "07:30",
+      "End": "08:15",
+      "DurationMinutes": 45,
+      "NumResources": 1
+    },
+    {
+      "Id": 10,
+      "Resource": "CLN",
+      "Service": "CLN",
+      "DemandDateDelta": 0,
+      "Start": "18:20",
+      "End": "19:05",
+      "DurationMinutes": 45,
+      "NumResources": 2
+    },
+    {
+      "Id": 11,
+      "Resource": "LDR",
+      "Service": "RMP",
+      "DemandDateDelta": 0,
+      "Start": "08:00",
+      "End": "18:00",
+      "DurationMinutes": 600,
+      "NumResources": 1
+    }
+  ]
+}

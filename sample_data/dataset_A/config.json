@@ -1,0 +1,80 @@
+{
+  "PlanningHorizonStart": "2026-11-09T00:00:00",
+  "PlanningHorizonEnd": "2026-11-22T23:59:59",
+  "schedule_type": "IRREGULAR",
+  "resources": [
+    {
+      "resource": "LDR",
+      "resource_tag": "DYNAMIC",
+      "shift_configuration": {
+        "shift_restrictions": {
+          "shift_start_restrictions": [
+            {
+              "start_time": "23:01",
+              "end_time": "05:59"
+            }
+          ],
+          "shift_end_restrictions": [
+            {
+              "start_time": "23:01",
+              "end_time": "02:59"
+            }
+          ]
+        },
+        "shift_policy": {
+          "daily": {
+            "include_30_min_increments": false,
+            "shift_lengths": [
+              8
+            ]
+          },
+          "weekly": {
+            "max_working_hours": 48,
+            "min_days_off": 1,
+            "max_days_off": 1,
+            "minimum_rest_between_consecutive_shifts": 12
+          }
+        },
+        "consecutive_day_off": false,
+        "enable_calendar_day_off": false
+      }
+    },
+    {
+      "resource": "CLN",
+      "resource_tag": "DYNAMIC",
+      "shift_configuration": {
+        "shift_restrictions": {
+          "shift_start_restrictions": [
+            {
+              "start_time": "23:01",
+              "end_time": "05:59"
+            }
+          ],
+          "shift_end_restrictions": [
+            {
+              "start_time": "23:01",
+              "end_time": "02:59"
+            }
+          ]
+        },
+        "shift_policy": {
+          "daily": {
+            "include_30_min_increments": true,
+            "shift_lengths": [
+              8,
+              9
+            ]
+          },
+          "weekly": {
+            "max_working_hours": 40,
+            "min_days_off": 2,
+            "max_days_off": 2,
+            "minimum_rest_between_consecutive_shifts": 12
+          }
+        },
+        "consecutive_day_off": true,
+        "enable_calendar_day_off": true
+      }
+    }
+  ]
+}
